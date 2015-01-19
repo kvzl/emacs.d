@@ -21,7 +21,6 @@
 	smex
 	auto-complete
 	paredit
-	tabbar
 	js2-mode
 	ac-js2
 ))
