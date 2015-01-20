@@ -4,6 +4,7 @@
 - smex
 - auto-complete
 - paredit
+- web-mode
 - js2-mode
 - ac-js2
 
