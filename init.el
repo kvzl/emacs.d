@@ -24,8 +24,9 @@
   (other-window 1)
   (eshell))
 
-
-
+(defun dirtree-current-path ()
+  (interactive)
+  (dirtree default-directory dirtree-buffer))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.

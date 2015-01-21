@@ -19,7 +19,7 @@
 	el-get
 	evil
 	smex
-	dirtree
+	emacs-dirtree
 	auto-complete
 	paredit
 	web-mode
