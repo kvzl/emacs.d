@@ -19,6 +19,7 @@
 	el-get
 	evil
 	smex
+	dirtree
 	auto-complete
 	paredit
 	web-mode
