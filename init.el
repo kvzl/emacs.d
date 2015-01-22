@@ -1,4 +1,5 @@
 (load "~/.emacs.d/scripts/init-el-get.el")
+(load "~/.emacs.d/scripts/keymap.el")
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 
