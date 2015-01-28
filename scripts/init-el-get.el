@@ -25,6 +25,7 @@
 	web-mode
 	js2-mode
 	ac-js2
+	json-mode
 ))
 
 (setq my:el-get-packages
